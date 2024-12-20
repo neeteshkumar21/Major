@@ -1,0 +1,1 @@
+streamlit run "C:\Users\DELL\OneDrive\Desktop\Heart\heartDisease.py"
