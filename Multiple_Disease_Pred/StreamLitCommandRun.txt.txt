@@ -1,0 +1,7 @@
+streamlit run "C:\Users\DELL\OneDrive\Desktop\Multiple_Disease_Pred\Multiple_Disease_Prediction.py"
+
+diabetes_model = pickle.load(open("C:/Users/DELL/OneDrive/Desktop/Multiple_Disease_Pred/SavedModels/diabetes_model.sav","rb"))
+
+heart_disease_model = pickle.load(open("C:/Users/DELL/OneDrive/Desktop/Multiple_Disease_Pred/SavedModels/heart_disease_model.sav","rb"))
+
+parkinsons_model = pickle.load(open("C:/Users/DELL/OneDrive/Desktop/Multiple_Disease_Pred/SavedModels/parkinsons_model.sav","rb"))
